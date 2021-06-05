@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Costmatics",
+    "slug": "costmatics",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "A products,orders,clients, mangment app for a Besan Cosmatics supplier bulit using expo and react-native the app is meant as a demo and not the final product im happy to hear what i could have done batter and what i should improve"
+  }
+}
